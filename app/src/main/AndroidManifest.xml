@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dbms">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DBMS"
+        tools:targetApi="31">
+        <activity
+            android:name=".Jaipur.jaipur"
+            android:exported="false" />
+        <activity
+            android:name=".Kolkata.kolkata"
+            android:exported="false" />
+        <activity
+            android:name=".Lucknow.lucknow"
+            android:exported="false" />
+        <activity
+            android:name=".Bhopal.bhopal"
+            android:exported="false" />
+        <activity
+            android:name=".delhi.Delhi"
+            android:exported="false" />
+        <activity
+            android:name=".card"
+            android:exported="false" />
+
+        <activity
+            android:name=".Imageupload"
+            android:exported="false" />
+
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">DBMS</string>
+    <string name="featured_location" translatable="false">All the featured location listed in this are of great values.</string>
+</resources>

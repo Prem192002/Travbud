@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553305888375",
+    "project_id": "dbms-d88cc",
+    "storage_bucket": "dbms-d88cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553305888375:android:d0d21a3eb20c376c089872",
+        "android_client_info": {
+          "package_name": "com.example.dbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553305888375-0onhiu21up3r83116na3j87popui2tr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYjDPrFmWhJTAHI5Y58IeJ5txDFhKD70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553305888375-0onhiu21up3r83116na3j87popui2tr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
